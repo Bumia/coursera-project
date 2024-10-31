@@ -1,2 +1,2 @@
-# coursera-project
-coursera assignment
+# Coursera-Project
+Coursera Assignment
